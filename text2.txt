@@ -1,1 +1,2 @@
 first line in text2.txt
+secon line in text2.txt
